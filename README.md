@@ -4,7 +4,7 @@
 
 The FaceHarmony App is an AI-powered profile picture generator app that allows users to create stunning, professional-quality images of themselves without needing a photographer. The app uses artificial intelligence to generate photos in various settings, styles, and poses while maintaining the user's natural look.
 
-**Important:** FaceHarmony is NOT an image transformation app. Unlike many other AI photo apps, FaceHarmony doesn't transform or edit your existing photos. Instead, it learns from your uploaded images once to create a personalized AI model, then generates completely new photos "out of thin air" - creating original images based on what it learned about your appearance.
+**Important:** FaceHarmony is NOT an image transformation app. Unlike many other AI photo applications, FaceHarmony doesn't transform or edit your existing photos. Instead, it learns from your uploaded images to create a personalized AI model, then generates completely new professional photos based on what it has learned about your appearance.
 
 ## What Sets FaceHarmony Apart
 
@@ -12,7 +12,7 @@ The FaceHarmony App is an AI-powered profile picture generator app that allows u
 - **Pay Only For What You Love**: Unlike competitors, reject unlimited photos without penalty
 - **Gamified Experience**: Swipe left to reject, swipe right to download a photo
 - **No Subscription Model**: Simple token-based system - purchase tokens to create models and download photos
-- **True AI Generation**: Unlike image transformation apps, FaceHarmony creates entirely new photos from scratch
+- **True AI Generation**: Unlike image transformation apps, FaceHarmony creates entirely new photos using advanced generative AI
 
 ## Pricing Plans
 
@@ -89,13 +89,13 @@ FaceHarmony uses two types of tokens to give you complete control over your AI p
   - Each day brings new creative options to explore
   - Continuous use means unlimited photo options over time
   - You can download any of these photos using a photo token if you like them
-- **Skip the Wait**: Want a specific style immediately?
+- **Priority Generation**: Need a specific style immediately?
   - Pre-pay with a photo token to place an instant order
   - Your order is prioritized and generated right away
   - Note: When pre-paying, the photo token is spent regardless of whether you download the resulting photo
-  - This option is perfect when you need a specific style without waiting
+  - This option is ideal when you need a specific style without waiting
 
-This two-token system ensures you have flexibility to create multiple AI models and only download the photos you truly love, without wasting money on unwanted images.
+This two-token system ensures you have flexibility to create multiple AI models and only download the photos you truly love, without paying for unwanted images.
 
 ## Features
 
@@ -193,10 +193,10 @@ FaceHarmony offers a wide variety of photography styles to choose from:
 - **High-quality, high-resolution images**: Produces detailed portraits
 - **Daily photo selection**: Preview and select from free personalized portraits (limit of 40 previews per day)
 - **Unmatched value**: Preview photos before purchase, pay only for what you love
-- **Inclusive technology**: Can accept even low-resolution images (350px) as input (but not recommended)
-- **Limitless creativity**: Generate an array of styles and scenarios
-- **Gamified interface**: Tinder-like swiping to download or discard images. Swipe right to download (pay with one photo token) or swipe left to reject a photo.
-- **Post-generation modifications**: We have a plan to add post generation modification
+- **Inclusive technology**: Compatible with even low-resolution images (350px) as input (though higher resolution is recommended)
+- **Extensive creative options**: Generate an array of styles and scenarios
+- **Intuitive interface**: User-friendly swiping to download or discard images. Swipe right to download (pay with one photo token) or swipe left to reject a photo.
+- **Post-generation modifications**: Future plans include post-generation modification capabilities
 
 ## Privacy and Security
 
@@ -246,7 +246,7 @@ For the most accurate results, use recent photos that reflect your current appea
 Choose clear, well-lit photos where your face is easily visible. Include a mix of indoor and outdoor shots, different outfits, and various expressions. Avoid heavily edited or filtered images, as natural photos work best for training the AI.
 
 ### How similar are the generated photos to my actual self?
-The generated faces have facial features similar to yours but in most cases they do not look exactly like you. They look like a re-imagined version of you in a new scene or situation. For example, if you are generating a folk style image which happens to be an East Asian folk photo, you can be sure that many of your facial features look like East Asians. That said, a small number of the photos might look exactly like you in everyday styles. If you would like to see only yourself and no re-imagined version of you, there are plenty of fantastic AI apps out there.
+The generated images feature facial characteristics similar to yours but are reimagined versions of you in new scenes or situations. For example, if you generate a folk-style image with East Asian cultural elements, many of your facial features will be adapted to that cultural context. A small number of the photos, particularly in everyday styles, may look very similar to you. If you prefer images that strictly maintain your exact appearance without any reinterpretation, there are other AI applications available that may better suit your needs.
 
 ### Can I use the generated photos for commercial purposes?
 Yes, you can use generated photos of yourself without any restrictions.
