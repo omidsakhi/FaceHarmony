@@ -15,6 +15,46 @@ The FaceHarmony App is an AI-powered profile picture generator app that allows u
 - **No Subscription Model**: Simple token-based system - purchase tokens to create models and download photos
 - **True AI Generation**: Unlike image transformation apps, FaceHarmony creates entirely new photos using advanced generative AI
 
+## Use Cases
+
+FaceHarmony offers diverse applications to enhance your personal and creative expression:
+
+### 1. Professional Headshots on Demand
+Create polished corporate portraits for job applications, LinkedIn, or company websites without hiring a photographer.
+
+### 2. Dating Profile Enhancement
+Generate attractive, authentic photos that showcase your personality for dating apps.
+
+### 3. Elevate Your Social Media Profile
+Create eye-catching, consistent profile pictures across all platforms to build your personal brand and make lasting impressions.
+
+### 4. Experiment with Hair Transformation
+Visualize different hairstyles, colors, and cuts before making any permanent changes to your appearance.
+
+### 5. Explore Stunning Makeup Ideas
+Discover makeup looks that complement your features by seeing them applied to your face through AI generation.
+
+### 6. Wedding Preview
+Visualize different wedding looks before your big day.
+
+### 7. Capture Unique Fashion Styles
+Try on diverse fashion styles from professional to avant-garde without purchasing new clothes or accessories.
+
+### 8. Historical Time Travel
+See yourself in different historical periods with period-appropriate styling and settings.
+
+### 9. Journey Through Life - Past, Present and Future
+Visualize yourself at different ages by generating images of younger or older versions of yourself.
+
+### 10. Author/Speaker Profile Photos
+Generate professional images for book jackets, conference materials, or speaking engagements.
+
+### 11. Revive Memories of Loved Ones
+Create models for departed loved ones to generate new images that honor their memory in meaningful settings.
+
+### 12. Cultural Exchange
+Experience yourself in different cultural contexts and traditional attire.
+
 ## How the Token System Works
 
 FaceHarmony uses two types of tokens to give you complete control over your AI photo experience:
@@ -144,7 +184,7 @@ FaceHarmony offers a wide variety of photography styles to choose from:
 - **Anytime convenience**: Generate polished images from home without scheduling photographers or studio time
 - **High-quality results**: Produces detailed, print-ready portraits rivaling professional photography
 - **Risk-free experimentation**: Try bold styles without makeup/costume investments
-- **Smart value**: Only pay for images you keep ($0.08-$0.20 per download)
+- **Smart value**: Only pay for images you keep
 - **Style versatility**: From corporate headshots to fantasy themes in one app
 - **Mobile-first design**: Full functionality optimized for smartphone use
 
